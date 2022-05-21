@@ -117,6 +117,14 @@
   .tarjetas {
     max-width: 300px;
   }
+  .planes__titulo {
+    margin-bottom: 3.5rem;
+  }
+  .tarjetas--ultra {
+    position: relative;
+    width: 300px;
+    height: 334px;
+  }
   .tarjetas__boton--ultra:hover {
     background: rgba(212, 151, 240, 0.464);
   }
